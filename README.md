@@ -1,18 +1,25 @@
-# Personal Task Manager
+📝 Personal Task Manager
 
-**Project Code:** WST21-PM-2026-SF
-**Student Name:** Jessie A. Vibas
-**Course & Year:** BSIT 2 - 2nd Year
-**Database Used:** MySQL
+A simple task management system built with Laravel.
 
-## Features
+WST21-PM-2026-SF
 
-* Add Task
-* View Tasks
-* Edit Task
-* Delete Task
-* Update Status
+Project Code: WST21-PM-2026-SF
 
+Student Name: Jessie A. Vibas
+
+Course & Year: BSIT 2 - 2nd Year
+
+Database Used: MySQL
+
+🚀 Features
+➕ Add Task
+👀 View Tasks
+✏️ Edit Task
+🗑️ Delete Task
+🔄 Update Status
+
+📸 Screenshot
 ## Screenshot
 
 ![Personal Task Manager](screenshots/task-manager.png)
